@@ -1,0 +1,238 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
+body {
+  background: #121212;
+  color: #fff;
+  font-family: 'Lato', sans-serif;
+}
+
+nav {
+  margin-top: 1rem;
+}
+
+.navbar {
+  background: #121212;
+}
+
+.nav-link {
+  color: #fff;
+}
+
+.navbar-brand {
+  margin-left: 3.4rem;
+}
+
+.navbar .navbar-brand {
+  padding-top: 0px;
+}
+
+.navbar .navbar-brand img {
+  height: 50px;
+}
+
+.navbar-expand-lg .navbar-nav {
+  margin-right: 2.5rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  margin-right: .75rem;
+  font-size: 1rem;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link:hover {
+  color: #ff2562;
+}
+
+.maintro {
+  margin: 6rem 0 0 0;
+}
+
+.maintro h1 {
+  margin-bottom: 1rem;
+  font-size: 3rem;
+}
+
+.maintro h1 span {
+  color: #ff2562;
+}
+
+.maintro h4 {
+  color: #ff2562;
+}
+
+.maintro .btn-primary {
+  margin-top: 1rem;
+  border-radius: 0;
+  background: #ff2562;
+  border-color: #ff2562;
+  padding: .5rem 3rem .5rem 3rem;
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+          box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.main-content {
+  height: 100vh;
+}
+
+.main-content .img-fluid {
+  margin-left: 4rem;
+}
+
+.more-content {
+  background: #fff;
+  color: #121212;
+  padding: 1rem 4rem;
+}
+
+.more-content h2 {
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+.more-content h2 span {
+  color: #ff2562;
+  font-weight: bold;
+}
+
+.more-content p {
+  font-size: .5rem;
+}
+
+.more-content .card {
+  border-radius: 0;
+  margin-top: 1rem;
+  background: #121212;
+  color: #fff;
+  text-align: center;
+}
+
+.more-content .card-img-top {
+  border-radius: 0;
+  width: 98%;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 1%;
+  max-height: 200px;
+  min-height: 150px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.more-content .card-body {
+  padding: 0 2.5rem 0 2.5rem;
+}
+
+.more-content .card-header {
+  background: #ff2562;
+  margin: 0 2rem 0 2rem;
+  position: relative;
+  top: -1.5rem;
+  font-size: 1rem;
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+          box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.more-content .card-header:first-child {
+  border-radius: 0;
+}
+
+.more-content .card-text {
+  font-size: .5rem;
+}
+
+.more-content hr {
+  width: 20%;
+  border-top: 2px solid #ff2562;
+}
+
+.more-content i {
+  font-size: 1rem;
+}
+
+.more-content .btn-primary {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 0;
+  background: #ff2562;
+  border-color: #ff2562;
+  padding: .5rem 3rem .5rem 3rem;
+  -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+          box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+  background: #121212;
+  color: #ff2562;
+  font-weight: bold;
+  text-align: center;
+}
+
+.about-me {
+  padding-top: 4rem;
+}
+
+.about-me .aboutro h1 {
+  margin-bottom: 1rem;
+  font-size: 4rem;
+}
+
+.about-me .aboutro h1 span {
+  color: #ff2562;
+}
+
+.about-me .aboutro h4 {
+  color: #ff2562;
+  font-size: 2rem;
+}
+
+.about-me .imagetro {
+  padding-left: 2rem;
+}
+
+.about-me .imagetro img {
+  border: 1px white solid;
+  background-color: #fff;
+  padding: .25rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 400px;
+}
+
+.about-me .thumbs {
+  margin-top: 3rem;
+}
+
+.about-me .thumbs .img-thumbnail {
+  border-radius: 0;
+}
+
+.about-me .thumbs img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  width: 16rem;
+  height: 10rem;
+}
+
+.resume {
+  background-color: #f1f1f1;
+  color: #222;
+}
+
+.resume header {
+  padding-top: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.resume header span {
+  color: #ff2562;
+}
+
+.resume .subject {
+  text-transform: uppercase;
+  color: #ff2562;
+}
+
+.resume h6 {
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=main.css.map */
