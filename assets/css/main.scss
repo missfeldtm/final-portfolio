@@ -123,6 +123,15 @@ nav {
   
     }
 
+    .app-link{
+        color:#fff;
+
+    }
+
+    .app-link:hover{
+        color:#fff;
+    }
+
     .card-img-top {
         border-radius: 0;
         width: 98%;
@@ -130,8 +139,8 @@ nav {
         margin-right: 1%;
         margin-top: 1%;
 
-        max-height: 200px;
-        min-height: 150px;
+        height: 200px;
+        
         object-fit: cover;
 
 
