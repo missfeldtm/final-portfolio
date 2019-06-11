@@ -139,7 +139,6 @@ i {
 
 .more-content .card-header {
   background: #ff2562;
-  margin: 0 2rem 0 2rem;
   position: relative;
   top: -1.5rem;
   font-size: 1rem;
@@ -270,6 +269,15 @@ footer {
   }
   .text-right {
     text-align: center !important;
+  }
+  .more-content .card-header {
+    font-size: .75rem;
+  }
+  .more-content .btn-primary {
+    padding: .5rem;
+  }
+  .more-content .card-body {
+    padding: 0 1rem 0 1rem;
   }
 }
 
