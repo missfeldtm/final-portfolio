@@ -1,5 +1,23 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:400,700');
 
+@import "../node_modules/hamburgers/_sass/hamburgers/hamburgers.scss";
+
+
+.navbar-toggler-icon {
+   display:inline;
+
+.hamburger{
+    color:white;
+    margin-right:1rem;
+}
+}
+
+button:focus {
+
+    outline: none;
+    outline: none;
+    
+    }
 
 body {
     background: #121212;
